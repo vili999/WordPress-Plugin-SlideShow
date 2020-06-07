@@ -77,6 +77,6 @@ function slideshow_shortcode() {
     }
 } 
 // register shortcode for the slideshow
-add_shortcode('slideshow', 'slideshow_shortcode'); 
+add_shortcode('myslideshow', 'slideshow_shortcode'); 
 
 ?>
